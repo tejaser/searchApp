@@ -1,2 +1,0 @@
-# searchApp
-Created with CodeSandbox

@@ -1,0 +1,24 @@
+.contactsApp {
+  width: 300px;
+}
+.contactsApp > * {
+  width: 100%;
+}
+ul {
+  padding: 0;
+}
+li {
+  list-style: none;
+  margin: 5px;
+}
+
+.contactData {
+  padding-top: 5px;
+  height: 40px;
+}
+
+li img {
+  border-radius: 50%;
+  margin-right: 10px;
+  float: left;
+}
