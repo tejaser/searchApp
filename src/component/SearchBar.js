@@ -6,6 +6,7 @@ const SearchBar = ({ filterText, onUserInput }) => (
     placeholder="Search"
     value={filterText}
     onChange={e => onUserInput(getInput(e))}
+    style={{ margin: 20 }}
   />
 );
 
